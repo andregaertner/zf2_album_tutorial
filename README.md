@@ -1,5 +1,7 @@
 <h1>ZendFramework 2 Album-Modul</h1>
 
+![alt text](https://andregaertner.com/wp-content/uploads/zf2_album.png)
+
 // coming soon
 
 <h3>Schritt 1</h3>
